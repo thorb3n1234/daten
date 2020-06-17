@@ -1,5 +1,5 @@
 classes = 1
-train = data/train.txt
-valid = data/text.txt
-names = data/obj.names
+train = daten/ML_DATA/custom_files/train.txt
+valid = daten/ML_DATA/custom_files/text.txt
+names = daten/ML_DATA/custom_files/text.txt/obj.names
 backup = backup/
