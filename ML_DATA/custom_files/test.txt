@@ -16,6 +16,7 @@
 ../daten/ML_DATA/data/data/test/VID_3.mp4_frame_400.jpg
 ../daten/ML_DATA/data/data/test/VID_10.mp4_frame_244.jpg
 ../daten/ML_DATA/data/data/test/VID_10.mp4_frame_276.jpg
+../daten/ML_DATA/data/data/test/VID_7_7__1.mp4_frame_3090.jpg
 ../daten/ML_DATA/data/data/test/MOVIE_2.mp4_frame_260.jpg
 ../daten/ML_DATA/data/data/test/MOVIE_2.mp4_frame_1220.jpg
 ../daten/ML_DATA/data/data/test/MOVIE_2.mp4_frame_1130.jpg
@@ -31,6 +32,7 @@
 ../daten/ML_DATA/data/data/test/20200529_101948.jpg
 ../daten/ML_DATA/data/data/test/MOVIE_2.mp4_frame_920.jpg
 ../daten/ML_DATA/data/data/test/MOVIE_1.mp4_frame_360.jpg
+../daten/ML_DATA/data/data/test/VID_7_7__1.mp4_frame_3030.jpg
 ../daten/ML_DATA/data/data/test/VID_3.mp4_frame_910.jpg
 ../daten/ML_DATA/data/data/test/20200529_102230.jpg
 ../daten/ML_DATA/data/data/test/VID_10.mp4_frame_280.jpg
@@ -49,6 +51,7 @@
 ../daten/ML_DATA/data/data/test/20200529_101942.jpg
 ../daten/ML_DATA/data/data/test/VID_3.mp4_frame_50.jpg
 ../daten/ML_DATA/data/data/test/20200529_102101.jpg
+../daten/ML_DATA/data/data/test/VID_7_7__1.mp4_frame_3150.jpg
 ../daten/ML_DATA/data/data/test/20200529_102232.jpg
 ../daten/ML_DATA/data/data/test/20200529_102059.jpg
 ../daten/ML_DATA/data/data/test/MOVIE_3.mp4_frame_30.jpg
@@ -67,9 +70,11 @@
 ../daten/ML_DATA/data/data/test/VID_11.mp4_frame_400.jpg
 ../daten/ML_DATA/data/data/test/20200529_102053.jpg
 ../daten/ML_DATA/data/data/test/20200529_102105.jpg
+../daten/ML_DATA/data/data/test/VID_7_7__1.mp4_frame_3060.jpg
 ../daten/ML_DATA/data/data/test/20200529_101946.jpg
 ../daten/ML_DATA/data/data/test/VID_3.mp4_frame_220.jpg
 ../daten/ML_DATA/data/data/test/MOVIE_1.mp4_frame_180.jpg
+../daten/ML_DATA/data/data/test/VID_7_7__1.mp4_frame_3000.jpg
 ../daten/ML_DATA/data/data/test/20200529_101945.jpg
 ../daten/ML_DATA/data/data/test/VID_10.mp4_frame_304.jpg
 ../daten/ML_DATA/data/data/test/20200529_102107.jpg
@@ -82,3 +87,4 @@
 ../daten/ML_DATA/data/data/test/MOVIE_3.mp4_frame_800.jpg
 ../daten/ML_DATA/data/data/test/20200529_101941.jpg
 ../daten/ML_DATA/data/data/test/VID_10.mp4_frame_248.jpg
+../daten/ML_DATA/data/data/test/VID_7_7__1.mp4_frame_3120.jpg

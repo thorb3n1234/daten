@@ -15,6 +15,7 @@
 ../daten/ML_DATA/data/data/train/VID_11.mp4_frame_230.jpg
 ../daten/ML_DATA/data/data/train/20200529_101833.jpg
 ../daten/ML_DATA/data/data/train/20200529_101913(0).jpg
+../daten/ML_DATA/data/data/train/VID_7_7__1.mp4_frame_2970.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_2.mp4_frame_950.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_1.mp4_frame_530.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_2.mp4_frame_960.jpg
@@ -29,10 +30,12 @@
 ../daten/ML_DATA/data/data/train/MOVIE_1.mp4_frame_830.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_3.mp4_frame_370.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_2.mp4_frame_20.jpg
+../daten/ML_DATA/data/data/train/20200703_105103.mp4_frame_180.jpg
 ../daten/ML_DATA/data/data/train/VID_11.mp4_frame_180.jpg
 ../daten/ML_DATA/data/data/train/VID_3.mp4_frame_270.jpg
 ../daten/ML_DATA/data/data/train/20200529_102222.jpg
 ../daten/ML_DATA/data/data/train/VID_3.mp4_frame_950.jpg
+../daten/ML_DATA/data/data/train/20200703_105103.mp4_frame_210.jpg
 ../daten/ML_DATA/data/data/train/VID_3.mp4_frame_1020.jpg
 ../daten/ML_DATA/data/data/train/VID_3.mp4_frame_120.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_3.mp4_frame_880.jpg
@@ -76,6 +79,7 @@
 ../daten/ML_DATA/data/data/train/20200529_102223.jpg
 ../daten/ML_DATA/data/data/train/20200529_101916.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_3.mp4_frame_870.jpg
+../daten/ML_DATA/data/data/train/20200703_105103.mp4_frame_120.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_3.mp4_frame_350.jpg
 ../daten/ML_DATA/data/data/train/VID_3.mp4_frame_1000.jpg
 ../daten/ML_DATA/data/data/train/20200529_101819.jpg
@@ -98,10 +102,12 @@
 ../daten/ML_DATA/data/data/train/20200529_102044.jpg
 ../daten/ML_DATA/data/data/train/VID_3.mp4_frame_170.jpg
 ../daten/ML_DATA/data/data/train/VID_3.mp4_frame_20.jpg
+../daten/ML_DATA/data/data/train/20200703_105103.mp4_frame_60.jpg
 ../daten/ML_DATA/data/data/train/VID_3.mp4_frame_370.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_2.mp4_frame_110.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_1.mp4_frame_850.jpg
 ../daten/ML_DATA/data/data/train/20200529_101856.jpg
+../daten/ML_DATA/data/data/train/20200703_105103.mp4_frame_240.jpg
 ../daten/ML_DATA/data/data/train/VID_4.mp4_frame_780.jpg
 ../daten/ML_DATA/data/data/train/20200529_101907.jpg
 ../daten/ML_DATA/data/data/train/20200529_101751(0).jpg
@@ -133,6 +139,7 @@
 ../daten/ML_DATA/data/data/train/MOVIE_1.mp4_frame_550.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_3.mp4_frame_10.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_1.mp4_frame_480.jpg
+../daten/ML_DATA/data/data/train/20200703_105103.mp4_frame_270.jpg
 ../daten/ML_DATA/data/data/train/20200529_101924.jpg
 ../daten/ML_DATA/data/data/train/20200529_101830.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_3.mp4_frame_130.jpg
@@ -298,6 +305,7 @@
 ../daten/ML_DATA/data/data/train/MOVIE_3.mp4_frame_240.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_1.mp4_frame_820.jpg
 ../daten/ML_DATA/data/data/train/VID_3.mp4_frame_100.jpg
+../daten/ML_DATA/data/data/train/20200703_105103.mp4_frame_90.jpg
 ../daten/ML_DATA/data/data/train/VID_3.mp4_frame_210.jpg
 ../daten/ML_DATA/data/data/train/VID_11.mp4_frame_360.jpg
 ../daten/ML_DATA/data/data/train/VID_3.mp4_frame_490.jpg
@@ -319,6 +327,7 @@
 ../daten/ML_DATA/data/data/train/VID_11.mp4_frame_520.jpg
 ../daten/ML_DATA/data/data/train/VID_11.mp4_frame_190.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_2.mp4_frame_100.jpg
+../daten/ML_DATA/data/data/train/20200703_105103.mp4_frame_30.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_1.mp4_frame_500.jpg
 ../daten/ML_DATA/data/data/train/20200529_101829.jpg
 ../daten/ML_DATA/data/data/train/VID_11.mp4_frame_140.jpg
@@ -366,6 +375,7 @@
 ../daten/ML_DATA/data/data/train/MOVIE_3.mp4_frame_140.jpg
 ../daten/ML_DATA/data/data/train/20200529_101852.jpg
 ../daten/ML_DATA/data/data/train/20200529_102213.jpg
+../daten/ML_DATA/data/data/train/20200703_105103.mp4_frame_150.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_2.mp4_frame_1210.jpg
 ../daten/ML_DATA/data/data/train/VID_3.mp4_frame_790.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_1.mp4_frame_50.jpg
@@ -446,6 +456,7 @@
 ../daten/ML_DATA/data/data/train/MOVIE_3.mp4_frame_90.jpg
 ../daten/ML_DATA/data/data/train/VID_3.mp4_frame_480.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_2.mp4_frame_1060.jpg
+../daten/ML_DATA/data/data/train/VID_7_7__1.mp4_frame_2940.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_3.mp4_frame_290.jpg
 ../daten/ML_DATA/data/data/train/20200529_101915.jpg
 ../daten/ML_DATA/data/data/train/MOVIE_2.mp4_frame_1170.jpg

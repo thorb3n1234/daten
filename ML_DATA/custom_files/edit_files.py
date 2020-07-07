@@ -1,10 +1,10 @@
 import glob,os,shutil
 counter =1
-files = sorted(glob.iglob(os.path.join("train/","*.txt")))
+files = sorted(glob.iglob(os.path.join("test/","*.txt")))
 
 for file in files:
 	if os.path.isfile(file):
-		if os.stat(file).st_size != 0 and str(file) != "train/classes.txt":
+		if os.stat(file).st_size != 0 and str(file) != "test/classes.txt":
 			counter = counter + 1 
 			f = open(file,"r")
 			content = f.readline()
