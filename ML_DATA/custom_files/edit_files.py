@@ -1,6 +1,6 @@
 import glob,os,shutil
 counter =1
-files = sorted(glob.iglob(os.path.join("test/","*.txt")))
+files = sorted(glob.iglob(os.path.join("../data/data/train/","*.txt")))
 
 for file in files:
 	if os.path.isfile(file):
@@ -8,15 +8,8 @@ for file in files:
 			counter = counter + 1 
 			f = open(file,"r")
 			content = f.readline()
-			parts = content.split()	
-			if len(parts[0]) > 1:		
-				f = open(file,"w")
-				rest_str = parts[1:]
-				startstr = '0 ' + str(parts[0][1:]) + ' '
-				newstr = startstr
-				for i in parts[1:]:	
-					newstr = newstr + i + ' '
-				print(newstr)
-				f.write(newstr)
-			f.close()
+			if content[-1] == " "
+				content[-1] =="\n"
+			f = open(file,"w")
+			f.write(content)
 print(str(counter))
