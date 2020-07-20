@@ -1,9 +1,14 @@
+../daten/ML_DATA/data/data/test/VID_8_7__2.mp4_frame_5025.jpg
 ../daten/ML_DATA/data/data/test/20200529_102222.jpg
 ../daten/ML_DATA/data/data/test/20200529_101850.jpg
 ../daten/ML_DATA/data/data/test/VID_14_4.mp4_frame_1680.jpg
+../daten/ML_DATA/data/data/test/VID_8_7__2.mp4_frame_5370.jpg
+../daten/ML_DATA/data/data/test/VID_8_7__2.mp4_frame_4650.jpg
 ../daten/ML_DATA/data/data/test/VID_11.mp4_frame_260.jpg
 ../daten/ML_DATA/data/data/test/20200529_102046.jpg
+../daten/ML_DATA/data/data/test/VID_8_7__2.mp4_frame_4755.jpg
 ../daten/ML_DATA/data/data/test/VID_8_7__2.mp4_frame_5355.jpg
+../daten/ML_DATA/data/data/test/VID_8_7__2.mp4_frame_4890.jpg
 ../daten/ML_DATA/data/data/test/VID_14_2.mp4_frame_1380.jpg
 ../daten/ML_DATA/data/data/test/20200703_105103.mp4_frame_150.jpg
 ../daten/ML_DATA/data/data/test/VID_3.mp4_frame_390.jpg
