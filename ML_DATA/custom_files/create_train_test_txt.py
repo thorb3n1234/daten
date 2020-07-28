@@ -34,3 +34,21 @@ for file in os.listdir("../bottom/test/"):
 	if file.endswith('.jpg'):
 		b.write("../daten/ML_DATA/bottom/test/"+ str(file) + os.linesep)
 b.close()
+
+#person
+
+
+a = open("train_person.txt", "w")
+for file in os.listdir("../person/train/"):
+	if file.endswith('.jpg'):
+		a.write("../daten/ML_DATA/person/train/"+ str(file) + os.linesep)
+
+a.close()
+
+
+b = open("test_person.txt", "w")
+for file in os.listdir("../person/test/"):
+	if file.endswith('.jpg'):
+		b.write("../daten/ML_DATA/person/test/"+ str(file) + os.linesep)
+b.close()
+
