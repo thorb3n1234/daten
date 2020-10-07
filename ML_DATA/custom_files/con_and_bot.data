@@ -2,4 +2,4 @@ classes = 2
 train = ../daten/ML_DATA/custom_files/con_and_bot_train.txt
 valid = ../daten/ML_DATA/custom_files/con_and_bot_valid.txt
 names = ../daten/ML_DATA/custom_files/con_and_bot.names
-backup = /content/MyDrive/ML/person/weights/
+backup = /content/MyDrive/ML/person/weights
