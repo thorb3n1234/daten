@@ -1,4 +1,5 @@
 ../daten/ML_DATA/con_and_bot/test/VID_8_7__3.mp4_frame_7635.jpg
+../daten/ML_DATA/con_and_bot/test/Video1__2_11.mp4_frame_1380.jpg
 ../daten/ML_DATA/con_and_bot/test/VID_11.mp4_frame_50.jpg
 ../daten/ML_DATA/con_and_bot/test/MOVIE_2.mp4_frame_950.jpg
 ../daten/ML_DATA/con_and_bot/test/VID_8_7__2.mp4_frame_1020.jpg
@@ -8,8 +9,10 @@
 ../daten/ML_DATA/con_and_bot/test/MOVIE_1.mp4_frame_510.jpg
 ../daten/ML_DATA/con_and_bot/test/VID_3.mp4_frame_120.jpg
 ../daten/ML_DATA/con_and_bot/test/20200529_101906(0).jpg
+../daten/ML_DATA/con_and_bot/test/Video2__2_11.mp4_frame_40.jpg
 ../daten/ML_DATA/con_and_bot/test/VID_4.mp4_frame_150.jpg
 ../daten/ML_DATA/con_and_bot/test/20200701_160840.mp4_frame_1020.jpg
+../daten/ML_DATA/con_and_bot/test/Video1__2_11.mp4_frame_930.jpg
 ../daten/ML_DATA/con_and_bot/test/VID_8_7__3.mp4_frame_630.jpg
 ../daten/ML_DATA/con_and_bot/test/VID_8_7__1.mp4_frame_690.jpg
 ../daten/ML_DATA/con_and_bot/test/20200529_101850.jpg
@@ -45,6 +48,7 @@
 ../daten/ML_DATA/con_and_bot/test/VID_11.mp4_frame_260.jpg
 ../daten/ML_DATA/con_and_bot/test/VID_13_1.mp4_frame_4825.jpg
 ../daten/ML_DATA/con_and_bot/test/20200529_101809.jpg
+../daten/ML_DATA/con_and_bot/test/Video2__2_11.mp4_frame_520.jpg
 ../daten/ML_DATA/con_and_bot/test/VID_11.mp4_frame_510.jpg
 ../daten/ML_DATA/con_and_bot/test/VID_4.mp4_frame_100.jpg
 ../daten/ML_DATA/con_and_bot/test/VID_2606_4.mp4_frame_1890.jpg

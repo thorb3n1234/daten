@@ -1,7 +1,7 @@
 import os
 import sys
 
-#CONNECTION
+#CONNECTION and BOTTOM
 a = open("con_and_bot_train.txt", "w")
 for file in os.listdir("../con_and_bot/train/"):
 	if file.endswith('.jpg'):

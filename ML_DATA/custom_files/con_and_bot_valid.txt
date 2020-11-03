@@ -23,6 +23,7 @@
 ../daten/ML_DATA/con_and_bot/valid/VID_11.mp4_frame_540.jpg
 ../daten/ML_DATA/con_and_bot/valid/20200529_101902.jpg
 ../daten/ML_DATA/con_and_bot/valid/VID_8_7__2.mp4_frame_930.jpg
+../daten/ML_DATA/con_and_bot/valid/Video1__2_11.mp4_frame_990.jpg
 ../daten/ML_DATA/con_and_bot/valid/MOVIE_1.mp4_frame_480.jpg
 ../daten/ML_DATA/con_and_bot/valid/VID_21_3.mp4_frame_1200.jpg
 ../daten/ML_DATA/con_and_bot/valid/MOVIE_2.mp4_frame_60.jpg
@@ -43,11 +44,13 @@
 ../daten/ML_DATA/con_and_bot/valid/VID_13_1.mp4_frame_3850.jpg
 ../daten/ML_DATA/con_and_bot/valid/VID_8_7__2.mp4_frame_1095.jpg
 ../daten/ML_DATA/con_and_bot/valid/VID_4.mp4_frame_130.jpg
+../daten/ML_DATA/con_and_bot/valid/Video2__2_11.mp4_frame_20.jpg
 ../daten/ML_DATA/con_and_bot/valid/VID_4.mp4_frame_750.jpg
 ../daten/ML_DATA/con_and_bot/valid/VID_14_4.mp4_frame_480.jpg
 ../daten/ML_DATA/con_and_bot/valid/VID_14_2.mp4_frame_1320.jpg
 ../daten/ML_DATA/con_and_bot/valid/20200529_101805.jpg
 ../daten/ML_DATA/con_and_bot/valid/20200703_105103.mp4_frame_1710.jpg
+../daten/ML_DATA/con_and_bot/valid/Video1__2_11.mp4_frame_630.jpg
 ../daten/ML_DATA/con_and_bot/valid/20200529_102030.jpg
 ../daten/ML_DATA/con_and_bot/valid/VID_13_2.mp4_frame_60.jpg
 ../daten/ML_DATA/con_and_bot/valid/20200529_101738.jpg
@@ -70,6 +73,7 @@
 ../daten/ML_DATA/con_and_bot/valid/VID_11.mp4_frame_500.jpg
 ../daten/ML_DATA/con_and_bot/valid/VID_8_7__1.mp4_frame_1065.jpg
 ../daten/ML_DATA/con_and_bot/valid/20200701_160840.mp4_frame_660.jpg
+../daten/ML_DATA/con_and_bot/valid/Video2__2_11.mp4_frame_560.jpg
 ../daten/ML_DATA/con_and_bot/valid/VID_3.mp4_frame_720.jpg
 ../daten/ML_DATA/con_and_bot/valid/20200529_101852.jpg
 ../daten/ML_DATA/con_and_bot/valid/VID_8_7__2.mp4_frame_5055.jpg
@@ -95,5 +99,7 @@
 ../daten/ML_DATA/con_and_bot/valid/20200529_101928.jpg
 ../daten/ML_DATA/con_and_bot/valid/20200529_101933(0).jpg
 ../daten/ML_DATA/con_and_bot/valid/20200529_101757.jpg
+../daten/ML_DATA/con_and_bot/valid/Video1__2_11.mp4_frame_660.jpg
+../daten/ML_DATA/con_and_bot/valid/Video1__2_11.mp4_frame_1410.jpg
 ../daten/ML_DATA/con_and_bot/valid/MOVIE_2.mp4_frame_1100.jpg
 ../daten/ML_DATA/con_and_bot/valid/VID_8_7__1.mp4_frame_2085.jpg
